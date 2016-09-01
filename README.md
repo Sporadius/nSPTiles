@@ -1,3 +1,7 @@
+Changes made by Sporadius:
+- Added a link type group. By defining a new group name in the link URL field you can load another menu from a tile.
+- Added a link type javascript function. By defining a javascript function in the link URL field you can load this function. Declare this URL field as JavascriptFunction[options]. Example alert[hello world]
+
 # [nSPTiles](http://nsptiles.js.org/)
 
 **nSPTiles** is an easy to use JavaScript library for Windows style live tiles for SharePoint with numerous styling options and an admin GUI.
